@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "kelpfertilizer",
-  "version": "3.1",
+  "version": "3.2",
 
   "name": "Kelp Fertilizer",
   "description": "Kelp seaweed has a cell structure that filters sea water for rich nutrients. It can now act as a fertilizer like bone meal.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/kelp-fertilizer",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Kelp%20Fertilizer",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Kelp%20Fertilizer"
+    "homepage": "https://serilum.com/mod/kelp-fertilizer",
+    "sources": "https://github.com/Serilum/Kelp-Fertilizer",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Kelp%20Fertilizer"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.19",
     "java": ">=17",
-    "collective": ">=7.3"
+    "collective": ">=7.21"
   },
 
   "custom": {
