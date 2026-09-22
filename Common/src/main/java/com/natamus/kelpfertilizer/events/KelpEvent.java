@@ -5,6 +5,7 @@ import com.natamus.collective.functions.CropFunctions;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.item.component.SwingAnimation;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.level.Level;
@@ -23,7 +24,7 @@ public class KelpEvent {
 		
 		if (CropFunctions.applyBonemeal(itemstack, world, pos, player)) {
 			world.levelEvent(2005, pos, 0);
-			player.swing(hand);
+			player.swingAndResetAttackStrength(hand, SwingAnimation.DEFAULT, false);
 			return true;
 		}
 		
