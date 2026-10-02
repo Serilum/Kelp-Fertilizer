@@ -1,9 +1,9 @@
-package com.natamus.kelpfertilizer;
+package com.serilum.kelpfertilizer;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.kelpfertilizer.forge.events.ForgeKelpEvent;
-import com.natamus.kelpfertilizer.util.Reference;
+import com.serilum.kelpfertilizer.forge.events.ForgeKelpEvent;
+import com.serilum.kelpfertilizer.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
