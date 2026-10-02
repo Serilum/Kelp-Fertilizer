@@ -1,10 +1,10 @@
-package com.natamus.kelpfertilizer;
+package com.serilum.kelpfertilizer;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
-import com.natamus.kelpfertilizer.events.KelpEvent;
-import com.natamus.kelpfertilizer.util.Reference;
+import com.serilum.kelpfertilizer.events.KelpEvent;
+import com.serilum.kelpfertilizer.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionHand;

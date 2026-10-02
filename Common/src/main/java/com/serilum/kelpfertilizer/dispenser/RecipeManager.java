@@ -1,6 +1,6 @@
-package com.natamus.kelpfertilizer.dispenser;
+package com.serilum.kelpfertilizer.dispenser;
 
-import com.natamus.kelpfertilizer.util.Reference;
+import com.serilum.kelpfertilizer.util.Reference;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.level.block.DispenserBlock;
 
