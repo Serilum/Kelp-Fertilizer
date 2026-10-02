@@ -1,6 +1,6 @@
-package com.natamus.kelpfertilizer.forge.events;
+package com.serilum.kelpfertilizer.forge.events;
 
-import com.natamus.kelpfertilizer.events.KelpEvent;
+import com.serilum.kelpfertilizer.events.KelpEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.eventbus.api.listener.SubscribeEvent;

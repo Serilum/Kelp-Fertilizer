@@ -1,7 +1,7 @@
-package com.natamus.kelpfertilizer;
+package com.serilum.kelpfertilizer;
 
 
-import com.natamus.kelpfertilizer.dispenser.RecipeManager;
+import com.serilum.kelpfertilizer.dispenser.RecipeManager;
 
 public class ModCommon {
 

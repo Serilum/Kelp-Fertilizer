@@ -1,4 +1,4 @@
-package com.natamus.kelpfertilizer.dispenser;
+package com.serilum.kelpfertilizer.dispenser;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
