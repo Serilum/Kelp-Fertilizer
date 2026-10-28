@@ -1,6 +1,6 @@
-package com.natamus.kelpfertilizer.neoforge.events;
+package com.serilum.kelpfertilizer.neoforge.events;
 
-import com.natamus.kelpfertilizer.events.KelpEvent;
+import com.serilum.kelpfertilizer.events.KelpEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
 import net.neoforged.bus.api.SubscribeEvent;
 

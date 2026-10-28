@@ -1,4 +1,4 @@
-package com.natamus.kelpfertilizer.events;
+package com.serilum.kelpfertilizer.events;
 
 import com.natamus.collective.functions.CropFunctions;
 
